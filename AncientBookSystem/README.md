@@ -151,16 +151,3 @@ chcp 65001
 
 中英文混排时，不同终端对中文字符宽度的处理可能不同，因此表格列宽可能略有差异。系统同时提供单条记录的详细显示，便于检查完整信息。
 
-## 10. GitHub 开源声明
-
-本项目为 C 语言程序设计课程综合实验项目，主要用于学习结构体、链表、文件读写、模块化程序设计与命令行交互系统的实现方法。项目代码计划开源至 GitHub，仓库地址如下：
-
-GitHub 仓库地址：__________
-
-本项目仅用于课程学习与个人编程能力训练，不涉及真实商业古籍交易数据。
-
-English statement:
-
-This project is a course assignment for practicing C programming, linked lists, file I/O, modular design, and command-line interaction. The source code will be published on GitHub:
-
-GitHub Repository: __________
